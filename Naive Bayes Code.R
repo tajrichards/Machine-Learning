@@ -1,3 +1,6 @@
+# Taj Richards - some code from my Machine Learning course.
+# We decided to create a spam filter from a dataset of text messages via Naive Bayesian model.
+
 ## Classification using Naive Bayes 
 
 ##--------------------------------------------------------
